@@ -1,0 +1,6 @@
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\kudupudi.sai\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.pdb

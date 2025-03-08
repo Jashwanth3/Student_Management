@@ -1,0 +1,9 @@
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentLibrary.pdb
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentM.507EE403.Up2Date
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\kudupudi.sai\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
